@@ -1,0 +1,16 @@
+/*
+Theme Name: wordpress-theme-react
+Author: M-slam
+Description: A wordpress support fort react app
+Version: 1.0
+*/
+
+#site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#main-content {
+  flex-grow: 1;
+}
